@@ -1,2 +1,3 @@
 Flask
 Redis
+LABEL maintainer="Maus101mode <maus101mode@gmail.com>
